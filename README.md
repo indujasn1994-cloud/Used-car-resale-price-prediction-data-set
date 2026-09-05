@@ -60,7 +60,7 @@ The dataset contains historical listings of used cars with key specifications an
 | **Random Forest Regressor** | **₹104,082** | **₹242,404** | **0.92** |
 | **XGBoost Regressor** | **₹106,066** | **₹408,878** | **0.78** |
 
-*(Note: Replace `X` with your model's actual performance metrics)*
+
 
 ---
 
